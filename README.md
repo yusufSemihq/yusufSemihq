@@ -23,4 +23,16 @@
 
 
 
-![snake gif](https://github.com/yusufSemihq/yusufSemihq/blob/output/github-contribution-grid-snake.gif)
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/yusufSemihq/yusufSemihq/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufSemihq&theme=dark" alt="yusufSemihq" />
+</div>
